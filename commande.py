@@ -8,6 +8,3 @@ pKill -9 nom_du programme pour touer un programme en utilisant son nom
 kill -9 PID pour touer un prossesseus en utilsant le PID 
  
 """)
-print("just a test")
-print("just a test")
-print("just a test")
